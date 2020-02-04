@@ -1,0 +1,300 @@
+,off_code,offtype_name
+0,2804,Possession of stolen property
+1,2804,Possession of a financial device
+2,2901,Damaged business property
+3,2902,Criminal mischief to private property
+4,2903,Criminal mischief to public property
+5,2999,Criminal mischief - other
+6,2999,Criminal mischief to a motor vehicle
+7,2999,Criminal mischief - graffiti
+8,3501,Manufacture of a hallucinogenic drug
+9,3503,Selling a hallucinogenic drug
+10,3504,Possession of a hallucinogenic drug
+11,3510,Selling heroin
+12,3512,Possession of heroin
+13,3520,Selling opium or an opium derivative
+14,3522,Possession of opium or an opium derivative
+15,3530,Selling cocaine
+16,3532,Possession of cocaine
+17,3540,Selling a synthetic narcotic drug
+18,3542,Possession of a synthetic narcotic drug
+19,3550,Possession of drug paraphernalia
+20,3560,Selling marijuana
+21,3562,Possession of marijuana
+22,3563,Cultivation of marijuana
+23,3570,Manufacture of methampetamine
+24,3571,Selling methampetamine
+25,3572,Possession of methampetamine
+26,3580,Manufacture of a barbiturate
+27,3581,Selling a barbiturate
+28,3582,Possession of a barbiturate
+29,3599,Other dangerous drugs - PCS
+30,3599,Manufacture or sell other dangerous drugs
+31,3601,Fondling of an adult
+32,3605,Indecent exposure
+33,3607,Incest with an adult
+34,3611,Window Peeping
+35,3612,Failure to register as a sex offender
+36,3613,Sex offender registration violation
+37,3615,Indecent exposure to an adult
+38,3699,Sex offense - other
+39,3700,Possession of obscene material
+40,3701,Manufacture of obscene material
+41,3799,Other obscenity crime
+42,3804,Bigamy
+43,3902,Operating a gambling card game
+44,3905,Operating a gambling dice game
+45,3908,Possession of a gambling device
+46,3911,Running a gambling operation
+47,3915,Running an illegal lottery
+48,3919,Tampering with sports
+49,3990,Gambling - betting or wagering
+50,3991,Gambling - gaming operation
+51,3999,Illegal gambling
+52,4001,Keeping a house of prostitution
+53,4002,"Procure for prostitution (trafficking, operating a bordelo)"
+54,4002,Pimping for prostitution
+55,4004,Engaging in prostitution
+56,4004,Prostitution
+57,4099,Aiding the act of prostitution
+58,4099,Display for prostitution
+59,4101,Manufacture of liquor
+60,4102,Illegal sale of liquor
+61,4104,Illegal possession of liquor
+62,4105,Liquor law violation
+63,4199,Liquor law violation - other
+64,4200,Public intoxication
+65,4801,Resisting arrest
+66,4802,Obstruction of a criminal investigation
+67,4803,Giving false information to police
+68,4803,Making a false report to police
+69,4807,Refusing to aid an officer
+70,4812,Failure to report abuse
+71,4813,Failure to obey a lawful order by police
+72,4899,Obstructing police
+73,4901,Escape of a prisoner
+74,4903,Aiding the escape of a prisoner
+75,4999,Escape or flight
+76,5006,Intimidation of a witness
+77,5007,Obstructing a court order
+78,5011,Parole violation
+79,5012,Probation violation
+80,5015,Failure to appear
+81,5016,Violation of a restraining order
+82,5016,Violation of a court order
+83,5016,Violation of a court order
+84,5099,Obstruction of a government operation
+85,5104,Bribery
+86,5201,Altering the serial number
+87,5202,Carrying a concealed weapon
+88,5203,Carrying a prohibited weapon
+89,5206,Using an explosive/incendiary device
+90,5207,Possession of an explosive
+91,5211,Possession of an explosive/incendiary device
+92,5212,Possession of an illegal/dangerous weapon
+93,5212,Possession of a weapon - POWPO
+94,5213,Unlawful discharge of a weapon
+95,5213,Flourishing of a weapon
+96,5214,Unlawful sale of a weapon
+97,5215,Bomb threat
+98,5299,Weapon - other
+99,5302,Inciting a riot
+100,5303,Engaging in  a riot
+101,5305,Police Interference
+102,5307,Unlawful assembly
+103,5309,Harassment
+104,5309,Harassment - DV
+105,5309,Obscene harassment
+106,5309,Harassment - sexual in nature
+107,5310,Desecrating the flag
+108,5311,Public fighting
+109,5312,Disturbing the peace
+110,5313,Curfew
+111,5314,Loitering
+112,5315,Vagrancy
+113,5399,Public  peace - other
+114,5401,Traffic accident - hit and run
+115,5420,Traffic accident - DUI-DUID
+116,5441,Traffic accident
+117,5441,Traffic accident - SBI
+118,5441,Traffic accident - Fatal
+119,5441,Traffic accident - Police
+120,5444,Habitual traffic offender
+121,5450,Vehicular homicide
+122,5454,Impound abandoned vehicle on right-of-way
+123,5455,Vehicular assault
+124,5499,Traffic offense - other
+125,5499,Vehicular eluding
+126,5499,Vehicular eluding - no chase
+127,5599,Health & safety violations
+128,5704,Eavesdropping
+129,5707,Criminal trespassing
+130,5799,Wiretapping
+131,5801,Possession of contraband
+132,5802,Smuggle contraband to prisoner
+133,5999,Election laws violation
+134,6110,Money laundering
+135,6199,Tax revenue violation
+136,6201,Cruelty to animals
+137,6205,Illegal dumping
+138,6299,Other conversation offense
+139,6299,Littering
+140,6299,Other environmental or animal offense
+141,6299,Possession of a dangerous animal
+142,6300,Money laundering
+143,7099,Crimes against a person - other
+144,7099,Conspiracy to commit homicide
+145,7099,Solicitation to commit homicide
+146,7099,Reckless endangerment
+147,7099,Disarming a peace officer
+148,7099,Accessory to commit homicide
+149,7199,Property crimes - other
+150,7199,Property crimes - other
+151,7299,Morals / decency offense - other
+152,7399,Public order offense - other
+153,7399,Possession of fireworks
+154,7399,Public order offense - other
+155,7399,Accessory / conspiracy to crime
+156,199,Treason
+157,399,Immigration violation
+158,902,Homicide by a family member
+159,903,Homicide by a stranger w/gun
+160,904,Homicide by a stranger w/weapon
+161,907,Homicide of a Police Officer w/gun
+162,908,Homicide of a Police Officer w/weapon
+163,910,Homicide by negligence
+164,911,Homicide by gun
+165,912,Homicide by other means
+166,1003,Kidnap minor to sexually assault
+167,1004,Kidnap adult to sexually assault
+168,1005,Kidnap a minor
+169,1006,Kidnap an adult
+170,1006,Domestic violence kidnapping
+171,1008,Abduction without ransom or assault
+172,1009,Hijack an aircraft
+173,1010,Kidnapping by parent
+174,1011,Kidnapping of a minor by non-parent
+175,1099,False Imprisonment
+176,1101,"Rape, perpetrator had a gun"
+177,1102,Rape
+178,1102,Rape by a person in a position of trust
+179,1103,Rape using the threat of violence
+180,1109,Unlawful sexual contact 
+181,1109,Unlawful sexual contact
+182,1112,Sodomy of a male juvenile using bodily force
+183,1113,Sodomy of an adult male using bodily force
+184,1114,Sodomy of a female juvenile using bodily force
+185,1115,Sodomy of an adult female using bodily force
+186,1116,Statutory rape
+187,1116,Statutory rape by a person in a position of trust
+188,1199,Sexual assault with an object
+189,1199,Sexual assault w/object by a person in a position of trust
+190,1201,Robbery of a business using a gun
+191,1202,Robbery of a business using a weapon
+192,1203,Robbery of a business using bodily force
+193,1204,Robbery of a person in the open using a gun
+194,1205,Robbery of a person in the open
+195,1206,Robbery of a person in the open using bodily force
+196,1207,Robbery of a person in a residence using a gun
+197,1208,Robbery of a person in a residence
+198,1209,Robbery of a person in a residence using bodily force
+199,1210,Forcible Purse Snatching
+200,1211,Robbery of a bank
+201,1212,Carjacking - armed
+202,1299,Robbery - remarks
+203,1301,Assault causing serious bodily injury by a family member using a gun
+204,1302,Assault causing serious bodily injury by a family member using a weapon
+205,1303,Assault causing serious bodily injury using bodily force - domestic violence
+206,1304,Assault causing serious bodily injury by a stranger using a gun
+207,1305,Assault causing serious bodily injury by a stranger using a weapon
+208,1306,Assault causing serious bodily injury by a stranger using bodily force
+209,1310,Assault causing serious bodily injury of a police officer using a gun
+210,1311,Assault causing serious bodily injury of a police officer using a weapon
+211,1312,Assault causing serious bodily injury of a police officer using bodily force
+212,1313,Assault causing minor bodily injury
+213,1313,Assault causing minor bodily injury
+214,1313,Assault causing minor bodily injury - domestic violence
+215,1313,Assault causing minor bodily injury to a police officer
+216,1314,Assault causing serious bodily injury using a gun
+217,1314,Weapon fired into an occupied vehicle
+218,1314,Weapon fired into an occupied building
+219,1315,Assault causing serious bodily injury
+220,1315,Assault causing serious bodily injury - domestic violence
+221,1315,Threatening to imminently injure with a weapon
+222,1315,Flourishing a weapon at another person
+223,1316,Threatening to injure
+224,1316,Harassment by stalking - domestic violence
+225,1316,Threatening to injure
+226,2005,Arson of a business
+227,2006,Arson of a residence
+228,2007,Arson
+229,2009,Arson to a public building
+230,2099,Arson of a vehicle
+231,2101,Extort-threaten to injure a person
+232,2199,Extortion - other
+233,2201,Burglary of a safe
+234,2202,Burglary of a residence with forced entry
+235,2202,Burglary and auto theft at a residence with forced entry
+236,2203,Burglary of a business with forced entry
+237,2203,Burglary and auto theft at a business with forced entry
+238,2204,Burglary of a residence without forced entry
+239,2204,Burglary and auto theft at a residence without forced entry
+240,2205,Burglary of a business without forced entry
+241,2205,Burglary and auto theft at a business without forced entry
+242,2206,Possession of burglary tools
+243,2299,Burglary - other
+244,2301,Pocketpicking
+245,2302,Purse snatching without force
+246,2303,Shoplifting
+247,2304,Theft of parts from a vehicle
+248,2305,Theft of items from a vehicle
+249,2307,Theft from a vending machine
+250,2308,Theft from a building
+251,2309,Theft from a yard
+252,2310,Theft from a mailbox
+253,2311,Theft from a bank
+254,2399,Theft - other
+255,2399,Bicycle theft
+256,2399,Theft of fuel by driving off without paying
+257,2399,Theft of cable services
+258,2399,Theft of construction equipment
+259,2399,Theft of a trailer
+260,2402,Vehicle stolen and stripped
+261,2404,Motor vehicle theft
+262,2411,Unauthorized use of a vehicle or joy ride
+263,2501,Forgery of checks
+264,2503,Counterfeiting an object
+265,2503,Altering a vehicle VIN number
+266,2504,Passing forged documents
+267,2505,"Passing counterfeited objects (tickets, bonds, etc)"
+268,2506,Possession of a forged instrument
+269,2506,Possession of a forged financial transaction device (credit & debit cards)
+270,2507,"Possession of counterfeited objects (tickets, bonds, etc)"
+271,2508,Possession of counterfeiting device
+272,2589,Forgery - other
+273,2589,Forgery to obtain drugs
+274,2601,Theft by confidence game
+275,2602,Theft of rental property
+276,2602,Failure to return rental vehicle
+277,2604,Identity theft
+278,2604,Criminal impersonation
+279,2604,Gathering personal information by deception
+280,2604,Possession of identity theft tools
+281,2604,Police impersonation
+282,2605,Unauthorized use of a financial transaction device
+283,2605,Unauthorized use of a financial transaction device
+284,2606,Fraud by check due to insufficient funds
+285,2607,Fraud by telephone
+286,2608,Fraud by wire
+287,2609,Fraud by use of computer
+288,2699,Fraud - other
+289,2699,"Failure to pay cab, bus or rail fare"
+290,2699,Theft of meals
+291,2699,Theft of services
+292,2699,Fraud to obtain drugs
+293,2699,Pawn broker violation
+294,2701,Embezzlement of business property
+295,2799,Embezzlement by an employee
+296,2801,Sale of stolen property
+297,2803,"Buy, sell or receive stolen property"
+298,2804,Recovered vehicle stolen outside Denver
